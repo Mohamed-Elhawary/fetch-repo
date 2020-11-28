@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/eac715a6-ac8a-4da2-8194-f31fb12da7c6/deploy-status)](https://app.netlify.com/sites/fetchrepo14/deploys)  
 
-Fetch Repo is an App. allows you to get any Github Username Repositories depending on JSON API.
+Fetch Repo is an application that allows you to get any Github username repositories depending on JSON API.
   
 ![Screenshot](preview.png)
 
